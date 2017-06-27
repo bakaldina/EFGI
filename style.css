@@ -69,25 +69,22 @@ li.right:last-child {
     padding: 2px;
 }
 .title {
-    max-width: 1400px;
+    max-width: 1480px;
     background-color: rgba(0,0,0,0.3);
-    padding: 40px;
+    padding: 60px 40px;
     border-radius: 20px;
     margin: auto;
     margin-top: 10%;
 }
 .big {
-    font-size: 38px;
+    font-size: 40px;
     color: #E0E1E6;
+    margin-bottom: 20px;
 }
-.title h2 {
-    font-size: 38px;
-    color: #E0E1E6;
-}
-.title > p {
+.title p {
     font-size: 25px;
     color: #f7f7f7;
-    margin: 20px 0;
+    margin-bottom: 20px;
 }
 .btn {
     display: inline-block;
